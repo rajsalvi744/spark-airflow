@@ -25,8 +25,9 @@ The project focuses on running Spark jobs via Airflow. Spark jobs are defined ex
 ## 🔧 How to Use  
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/your-username/airflow-spark-job-orchestration.git  
-   cd airflow-spark-job-orchestration  
+   git clone https://github.com/rajsalvi744/spark-airflow.git  
+   cd spark-airflow
+    
 2. Set Up Docker:
 Start the Airflow and Spark services using Docker Compose:
    ```bash
